@@ -1,3 +1,4 @@
+// Developed by Shaarif.
 #include <iostream>
 #include <cstring>
 #include <cctype>
